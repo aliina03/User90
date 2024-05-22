@@ -14,3 +14,5 @@ C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\U
 C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\User90.csproj.CoreCompileInputs.cache
 C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\User90.exe
 C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\User90.pdb
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\Авторизация.g.cs
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\Авторизация.baml
