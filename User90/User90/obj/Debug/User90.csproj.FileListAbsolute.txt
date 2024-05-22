@@ -1,0 +1,16 @@
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\bin\Debug\User90.exe.config
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\bin\Debug\User90.exe
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\bin\Debug\User90.pdb
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\User90.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\User90.csproj.SuggestedBindingRedirects.cache
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\MainWindow.g.cs
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\App.g.cs
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\User90_MarkupCompile.cache
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\User90_MarkupCompile.lref
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\MainWindow.baml
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\User90.g.resources
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\User90.Properties.Resources.resources
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\User90.csproj.GenerateResource.cache
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\User90.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\User90.exe
+C:\Users\alina\OneDrive\Рабочий стол\User90\User90\User90\obj\Debug\User90.pdb
